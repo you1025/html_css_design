@@ -1,0 +1,16 @@
+{
+  "name": "html_css_design",
+  "version": "1.0.0",
+  "description": "1冊ですべて身につくHTML & CSSとWebデザイン入門講座［第2版］",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
